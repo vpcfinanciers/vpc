@@ -1,1 +1,6 @@
-Name,NickName,Amount
+Name,NickName,Amount,Advance,Percent,StartDate,Mode,Status,M1_PaidDate,M2_PaidDate,M3_PaidDate,M4_PaidDate,M5_PaidDate,M6_PaidDate,M7_PaidDate,M8_PaidDate,M9_PaidDate,M10_PaidDate
+Suthakar (Paari Clinic),,50000,20,10,20-12-2021,Cash,Closed,05-01-2022,09-02-2022,10-03-2022,10-04-2022,10-05-2022,10-06-2022,10-07-2022,10-08-2022,10-09-2022,10-10-2022
+Anjali(Nanay),,80000,20,10,09-07-2022,Bank,Open,,,,,,,,,,
+Jagan (Dubhai),,200000,20,10,09-03-2022,Bank,Open,,,,,,,,,,
+Alex(Imedx),,60000,20,10,10-03-2022,Cash,Open,,,,,,,,,,
+Ashok (Shubhan),,250000,20,10,27-03-2022,Bank,Open,,,,,,,,,,
