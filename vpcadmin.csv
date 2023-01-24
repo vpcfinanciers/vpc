@@ -1,6 +1,6 @@
 Name,Type,Sub_Type,Amount,Date
-Emp1,,,20000,01-01-2023
-TN66X9999,,,1000,09-01-2023
+Emp1,Office Expenses,Salary,12000,01-01-2023
+TN66X9999,Vehicle Expenses,Fuel,1000,09-01-2023
 TN66X9999,,,2000,05-01-2023
 Emp2,,,20000,06-01-2023
 Beverages,,,500,04-01-2023
