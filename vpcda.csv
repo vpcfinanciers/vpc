@@ -1,0 +1,5 @@
+Name,Phone,Amount,Advance,Percent,StartDate,Mode,Status,M1_PaidDate,Mode_M1,M2_PaidDate,Mode_M2,M3_PaidDate,Mode_M3,M4_PaidDate,Mode_M4,M5_PaidDate,Mode_M5,M6_PaidDate,Mode_M6,M7_PaidDate,Mode_M7,M8_PaidDate,Mode_M8,M9_PaidDate,Mode_M9,M10_PaidDate,Mode_M10,M11_PaidDate,Mode_M11,M12_PaidDate,Mode_M12
+Jerom(Jaiganesh Juvi),9629211884,150000,6000,4,01/03/22,Cash,open,05/04/22,Cash,05/05/22,Cash,06/06/22,Cash,05/07/22,Cash,09/08/22,Cash,10/09/22,Cash,11/10/22,Cash,,,,,,,,,,
+Eswari(Vadavalli PN Pudur),8838888650,50000,2000,4,12/03/22,Cash,Closed,12/04/22,Cash,12/05/22,Cash,12/06/22,Cash,12/07/22,Cash,12/08/22,Cash,12/09/22,Cash,,,,,,,,,,,,
+Sabareesh ,9786702204,50000,2000,4,17/03/22,Cash,open,17/04/22,Bank,18/05/22,Bank,17/06/22,Cash,18/07/22,Cash,18/08/22,Cash,19/09/22,Cash,18/10/22,Cash,18/11/22,Cash,18/12/22,Cash,17/01/23,Cash,17/02/23,Cash,18/03/23,Cash
+Hari Krishnan(Sabareesh),8778789037,150000,6000,4,17/03/22,Cash,open,17/04/22,Bank,18/05/22,Bank,17/06/22,Cash,18/07/22,Cash,18/08/22,Cash,19/09/22,Cash,18/10/22,Cash,18/11/22,Cash,18/12/22,Cash,17/01/23,Cash,17/02/23,Cash,18/03/23,Cash
