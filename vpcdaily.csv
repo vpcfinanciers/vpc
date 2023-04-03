@@ -1,4 +1,4 @@
-Name,Phone,Amount,Advance,Percent,StartDate,Mode,Status,M1_PaidDate,Mode_M1,M2_PaidDate,Mode_M2,M3_PaidDate,Mode_M3,M4_PaidDate,Mode_M4,M5_PaidDate,Mode_M5,M6_PaidDate,Mode_M6,M7_PaidDate,Mode_M7,M8_PaidDate,Mode_M8,M9_PaidDate,Mode_M9,M10_PaidDate,Mode_M10,M11_PaidDate,Mode_M11,,
+Name,Phone,Amount,Advance,Percent,StartDate,Mode,Status,M1_PaidDate,Mode_M1,M2_PaidDate,Mode_M2,M3_PaidDate,Mode_M3,M4_PaidDate,Mode_M4,M5_PaidDate,Mode_M5,M6_PaidDate,Mode_M6,M7_PaidDate,Mode_M7,M8_PaidDate,Mode_M8,M9_PaidDate,Mode_M9,M10_PaidDate,Mode_M10,M11_PaidDate,Mode_M11,M12_PaidDate,Mode_M12
 Jerom(Jaiganesh Juvi),9629211884,150000,6000,4,01-03-2022,Cash,Open,05-04-2022,Cash,05-05-2022,Cash,06-06-2022,Cash,05-07-2022,Cash,09-08-2022,Cash,10-09-2022,Cash,11-10-2022,Cash,,,,,,,,,,
 Eswari(Vadavalli PN Pudur),8838888650,50000,2000,4,12-03-2022,Cash,Closed,12-04-2022,Cash,12-05-2022,Cash,12-06-2022,Cash,12-07-2022,Cash,12-08-2022,Cash,12-09-2022,Cash,,,,,,,,,,,,
 Sabareesh ,9786702204,50000,2000,4,17-03-2022,Cash,Open,17-04-2022,Bank,18-05-2022,Bank,17-06-2022,Cash,18-07-2022,Cash,18-08-2022,Cash,19-09-2022,Cash,18-10-2022,Cash,18-11-2022,Cash,18-12-2022,Cash,17-01-2023,Cash,17-02-2023,Cash,18-03-2023,Cash
@@ -21,3 +21,8 @@ Siva Vairakreedom(Rice Mill),7402173333,1000000,40000,4,02-05-2022,Bank,Open,03-
 Ravindran SPI,,25000,1000,4,06-05-2022,Cash,Open,07-06-2022,Cash,08-07-2022,Cash,06-08-2022,Cash,06-09-2022,Cash,05-10-2022,Cash,07-11-2022,Cash,06-12-2022,Cash,07-01-2023,Cash,06-02-2023,Cash,04-03-2023,Cash,,,,
 Uma(John Jerald),7339051677,50000,2000,4,07-05-2022,Cash,Open,07-06-2022,Cash,07-07-2022,Cash,09-08-2022,Cash,07-09-2022,Cash,08-10-2022,Cash,10-11-2022,Cash,07-12-2022,Cash,09-01-2023,Cash,10-02-2023,Cash,10-03-2023,Cash,,,,
 Archana Rajesh,8754044137,100000,4000,4,09-05-2022,Bank,Open,13-06-2022,Cash,11-07-2022,Cash,09-08-2022,Cash,17-09-2022,Cash,13-10-2022,Cash,15-11-2022,Cash,,,,,,,,,,,,
+Saravanan SPI,8760845351,100000,4000,4,09-05-2022,Cash,Open,11-06-2022,Cash,12-07-2022,Cash,13-08-2022,Cash,14-09-2022,Cash,17-10-2022,Cash,12-11-2022,Cash,13-12-2022,Cash,11-01-2023,Cash,14-02-2023,Cash,13-03-2023,Cash,,,,
+Joshua ,9952433010,50000,2000,4,12-05-2022,Bank,Closed,13-06-2022,Bank,12-07-2022,Bank,10-08-2022,Bank,12-09-2022,Bank,10-10-2022,Bank,09-11-2022,Bank,10-12-2022,Bank,,,,,,,,,,
+Prints Suresh Babu,8122130394,100000,4000,4,07-06-2022,Cash,Open,18-07-2022,Bank,11-08-2022,Bank,16-09-2022,Bank,11-10-2022,Bank,23-12-2022,Bank,23-12-2023,Bank,13-01-2023,Bank,17-02-2023,Bank,01-04-2023,Bank,,,,,,
+Prasanth(Amutha Medical),7904420935,150000,6000,4,10-06-2022,Bank,Closed,11-07-2022,Cash,08-08-2022,Cash,09-09-2022,Cash,11-10-2022,Cash,10-11-2022,Cash,10-12-2022,Bank,,,,,,,,,,,,
+Shuban,9894578795,50000,2000,4,10-06-2022,Bank,Open,14-07-2022,Bank,18-08-2022,Bank,03-10-2022,Bank,18-10-2022,Bank,28-11-2022,Bank,30-12-2022,Bank,23-01-2023,Bank,24-02-2023,Bank,16-03-2023,Bank,,,,,,
